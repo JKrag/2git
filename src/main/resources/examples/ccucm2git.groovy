@@ -1,3 +1,5 @@
+package examples
+
 def tempDir = "c:/tmp/2git"
 
 source('ccucm') {
