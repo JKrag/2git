@@ -1,10 +1,10 @@
 package examples
 
-def tempDir = "c:/tmp/2git"
+def tempDir = "d:/2git"
 
 source('ccucm') {
-    component "myComp@\\vob"
-    stream "myStream@\\vob"
+    component "_Client@\\2Cool_PVOB"
+    stream "Client_int\\2Cool_PVOB"
 }
 
 target('git') {
